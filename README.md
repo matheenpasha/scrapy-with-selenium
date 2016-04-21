@@ -13,7 +13,7 @@ Demo to use Scrapy with Selenium to build web-crawlers/Spiders for modern web ap
 ##Usage
 
 ```sh
- scapy crawl demo
+/Demo> scapy crawl demo
 ```
 
 
