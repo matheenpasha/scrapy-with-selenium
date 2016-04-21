@@ -13,7 +13,7 @@ Demo to use Scrapy with Selenium to build web-crawlers/Spiders for modern web ap
 ##Usage
 
 ```sh
-/Demo> scapy crawl demo
+/Demo> scrapy crawl demo
 ```
 
 
@@ -22,4 +22,4 @@ Demo to use Scrapy with Selenium to build web-crawlers/Spiders for modern web ap
 You can see how to use Scrapy & Selenium from their official documentation below:
 
 * [http://doc.scrapy.org/en/latest/index.html] - Scrapy
-* [http://selenium-python.readthedocs.org/] -Selenium bindings fro python
+* [http://selenium-python.readthedocs.org/] -Selenium bindings for python
